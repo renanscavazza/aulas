@@ -1,0 +1,15 @@
+COMANDO BÁSICOS LINUX:
+
+ls -> lista as pastas/arquivos no diretório
+pwd -> mostra o diretório que você está
+mkdir -> cria pasta
+cd -> move até o diretório desejado
+nautilus -> abre a pasta pelo terminal
+clear -> limpa o terminal
+
+COMANDOS BASICOS GIT:
+git status -> mostra os arquivos que foram criados ou editados
+git add -> indica qual arquivo vamos mexer
+git commit -m -> cria o commit do arquivo com uma mensagem
+git push -> envia as atualizacoes para o repositorio
+
