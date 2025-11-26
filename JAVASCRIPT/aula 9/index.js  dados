@@ -1,0 +1,17 @@
+// string, number, undefined, null, boolean
+const nome = 'renan'; //string
+const nome1 = `renan` //string
+const nome2 = "renan"; //string
+const number1 = 30; // number
+const number2 = 10.52; //number
+let nomealuno // undefined -> nao aponta pra local nenhum na memoria
+let sobrenomeAluno = null // nulo -> nao aponta pra local nenhum na memoria
+const aprovado = false; //  Boolean = true, false  (logico)
+
+let a = 2;
+const b = a;
+console.log(a, b); // 2 , 2
+
+a = 3;
+
+console.log(a , b); // 3 , 2

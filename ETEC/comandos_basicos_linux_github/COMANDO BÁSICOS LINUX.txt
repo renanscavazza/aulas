@@ -12,4 +12,4 @@ git status -> mostra os arquivos que foram criados ou editados
 git add -> indica qual arquivo vamos mexer
 git commit -m -> cria o commit do arquivo com uma mensagem
 git push -> envia as atualizacoes para o repositorio
-
+e
